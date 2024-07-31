@@ -1,6 +1,6 @@
 # Netflix FrontEnd Clone
 
-This project is a frontend clone of the Netflix website, created using HTML, CSS
+This project is a frontend clone of the Netflix website, created using HTML, CSS. I have made this clone by following a youtube tutorial
 
 # Features
 
